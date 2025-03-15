@@ -1,0 +1,94 @@
+{
+  "header": {
+    "comment": "eric project file for project leve2",
+    "copyright": "Copyright (C) 2023 , ",
+    "saved": "2023-06-13, 16:05:23"
+  },
+  "project": {
+    "AUTHOR": "",
+    "CHECKERSPARMS": {},
+    "DESCRIPTION": "",
+    "DOCSTRING": "",
+    "DOCUMENTATIONPARMS": {},
+    "EMAIL": "",
+    "EOL": 0,
+    "FILETYPES": {
+      "*.e4p": "OTHERS",
+      "*.idl": "INTERFACES",
+      "*.md": "OTHERS",
+      "*.proto": "PROTOCOLS",
+      "*.py": "SOURCES",
+      "*.py3": "SOURCES",
+      "*.pyw": "SOURCES",
+      "*.pyw3": "SOURCES",
+      "*.qm": "TRANSLATIONS",
+      "*.qrc": "RESOURCES",
+      "*.rst": "OTHERS",
+      "*.ts": "TRANSLATIONS",
+      "*.txt": "OTHERS",
+      "*.ui": "FORMS",
+      "GNUmakefile": "OTHERS",
+      "Makefile": "OTHERS",
+      "README": "OTHERS",
+      "README.*": "OTHERS",
+      "makefile": "OTHERS"
+    },
+    "FORMS": [],
+    "HASH": "0c5e559d5c86cb80dbaf5d031a553294907ac1b5",
+    "IDLPARAMS": {
+      "DefinedNames": [],
+      "IncludeDirs": [],
+      "UndefinedNames": []
+    },
+    "INTERFACES": [],
+    "LEXERASSOCS": {},
+    "MAINSCRIPT": "",
+    "MAKEPARAMS": {
+      "MakeEnabled": false,
+      "MakeExecutable": "",
+      "MakeFile": "",
+      "MakeParameters": "",
+      "MakeTarget": "",
+      "MakeTestOnly": true
+    },
+    "MIXEDLANGUAGE": 0,
+    "OTHERS": [],
+    "OTHERTOOLSPARMS": {},
+    "PACKAGERSPARMS": {},
+    "PROGLANGUAGE": "Python3",
+    "PROJECTTYPE": "PyQt5",
+    "PROJECTTYPESPECIFICDATA": {},
+    "PROTOCOLS": [],
+    "RCCPARAMS": {
+      "CompressLevel": 0,
+      "CompressionDisable": false,
+      "CompressionThreshold": 70,
+      "PathPrefix": ""
+    },
+    "RESOURCES": [],
+    "SOURCES": [
+      "__init__.py",
+      "level2draw1.pyw",
+      "level2draw2.pyw",
+      "level2static.py",
+      "test1.py",
+      "test_ctypes.py"
+    ],
+    "SPELLEXCLUDES": "",
+    "SPELLLANGUAGE": "",
+    "SPELLWORDS": "",
+    "TRANSLATIONEXCEPTIONS": [],
+    "TRANSLATIONPATTERN": "",
+    "TRANSLATIONS": [],
+    "TRANSLATIONSBINPATH": "",
+    "UICPARAMS": {
+      "Package": "",
+      "PackagesRoot": "",
+      "RcSuffix": ""
+    },
+    "VCS": "None",
+    "VCSOPTIONS": {},
+    "VCSOTHERDATA": {},
+    "VERSION": "0.1"
+  }
+}
